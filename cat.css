@@ -1,0 +1,11 @@
+body {
+	background: #2E5FBA;
+}
+h1{
+text-align: center;
+}
+img {
+	border-radius: 25px;
+	display: block;
+	margin:0px auto;
+}
